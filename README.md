@@ -62,7 +62,7 @@ Here’s a snapshot of the Power BI dashboard:
   <img src="images/Banking Dasbord Home_01.png" alt="Power BI Banking Dashboard" width="700"/>
 </p>
 <p align="center">
-  <img src="images/Banking Dasbord Deposit.png alt="Power BI Banking Dashboard" width="700"/>
+  <img src="images/Banking Dasbord Deposit.png" alt="Power BI Banking Dashboard" width="700"/>
 </p>
 <p align="center">
   <img src="images/Banking Dasbord Loan.png" alt="Power BI Banking Dashboard" width="700"/>
