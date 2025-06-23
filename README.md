@@ -1,4 +1,4 @@
-# 🏦 Banking Risk Analytics Dashboard
+# 🏦 Loan Risk Analytics Dashboard
 
 ## 📌 Project Overview
 This project focuses on exploring banking data to assist financial institutions in making smarter loan decisions. By analyzing customer behavior, engagement patterns, and risk profiles, we created an interactive dashboard that helps identify whether a loan applicant is likely to repay the loan or not.
@@ -61,6 +61,12 @@ Here’s a snapshot of the Power BI dashboard:
 <p align="center">
   <img src="images/Banking Dasbord Home_01.png" alt="Power BI Banking Dashboard" width="700"/>
 </p>
+<p align="center">
+  <img src="images/Banking Dasbord Deposit.png alt="Power BI Banking Dashboard" width="700"/>
+</p>
+<p align="center">
+  <img src="images/Banking Dasbord Loan.png" alt="Power BI Banking Dashboard" width="700"/>
+</p>
 
 Additional drill-downs and interactive filters allow stakeholders to explore detailed client risk segments, branch performance, and advisor trends.
 
@@ -78,14 +84,4 @@ Additional drill-downs and interactive filters allow stakeholders to explore det
 - Data-driven support for approving or rejecting loan applications
 - Enhanced visibility into client-bank relationships
 
----
 
-## 📎 How to Use
-1. Clone this repo
-2. Use the Python scripts to process and clean raw data
-3. Import the cleaned data into your MySQL server
-4. Open the `.pbix` file in Power BI to explore the dashboard
-
----
-
-## 📁 Repository Structure
